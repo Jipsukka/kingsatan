@@ -1,6 +1,6 @@
 <div id="result"></div>
 
-<div id="reader" width="500px" height="600px"></div>
+<div id="reader" width="600px" height="600px"></div>
 
 <div id="scan" class="btn btn-warning"><h1>Skannaa</h1></div>
 
