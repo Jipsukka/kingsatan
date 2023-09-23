@@ -1,0 +1,7 @@
+{
+    "require": {
+        "chillerlan/php-qrcode": "^4.3",
+        "vlucas/phpdotenv": "^5.5",
+        "mpdf/mpdf": "^8.0"
+    }
+}
