@@ -52,4 +52,4 @@ header("Content-Disposition: attachment; filename=\"". basename($fileName) ."\""
 readfile('/tmp/ticket.pdf');
 
 unlink('/tmp/qr.svg');
-unlink('/tmp/ticket.svg');
+unlink('/tmp/ticket.pdf');
